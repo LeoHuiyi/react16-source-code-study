@@ -1,7 +1,7 @@
 # react16 源码研究
 
 ## 流程图
-![image](https://raw.githubusercontent.com/LeoHuiyi/react16-source-code-study/master/react16%20%E6%B5%81%E7%A8%8B%E5%9B%BE.png)
+![image](https://raw.githubusercontent.com/LeoHuiyi/react16-source-code-study/master/react16-leo.png)
 
 
 ## 主要类型
